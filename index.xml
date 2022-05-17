@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="iso-8859-1" ?>
+<!DOCTYPE company[
+    <!ELEMENT company (employe)*>   
+    <!ELEMENT employe (name,salary,joiningdate,position)>
+    <!ELEMENT name (#PCDATA)>
+    <!ELEMENT salary (#PCDATA)>
+    <!ELEMENT joiningdate (#PCDATA)>
+    <!ELEMENT position (#PCDATA)>
+    <!ATTLIST employe id CDATA #REQUIRED>
+]>
 
 <company>
-
 <employe id="10234">
 <name>salmann</name>
 <salary>200000</salary>
