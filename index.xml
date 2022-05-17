@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+
+<company>
+
+<employe id="10234">
+<name>salmann</name>
+<salary>200000</salary>
+<joiningdate>4-2-15</joiningdate>
+<position>manager</position>
+</employe>
+
+
+<employe id="10235">
+<name>ibrahim</name>
+<salary>400000</salary>
+<joiningdate>3-2-15</joiningdate>
+<position>ceo</position>
+</employe>
+
+<employe id="10236">
+<name>asim</name>
+<salary>500000</salary>
+<joiningdate>8-2-15</joiningdate>
+<position>manager</position>
+</employe>
+
+<employe id="10237">
+<name>ghazanfar</name>
+<salary>600000</salary>
+<joiningdate>7-2-15</joiningdate>
+<position>md</position>
+</employe>
+
+<employe id="10238">
+<name>salmann</name>
+<salary>7000000</salary>
+<joiningdate>5-2-15</joiningdate>
+<position>manager</position>
+</employe>
+
+</company>
